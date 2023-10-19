@@ -1,1 +1,3 @@
-The goal of this project is to use the content learned in an HTML course, in order to create a forms.
+# Project Title: HTML Showcase- Practical Application
+
+## The purpose of this project within the HTML course repository is to demonstrate the practical application of knowledge gained. It focuses on creating well-structured and efficient forms by utilizing the skills acquired during the course.
